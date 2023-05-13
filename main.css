@@ -1,0 +1,407 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0e1010;
+
+
+}
+
+.container {
+    max-width: 2000px;
+}
+
+.header__logo h1 {
+    color: #fff;
+    padding-left: 44.22px;
+    margin-top: 22px;
+}
+
+.header__logo {
+
+    width: 2000px;
+    height: 91px;
+    left: 0px;
+    top: 0px;
+    background: #0E1010;
+    mix-blend-mode: normal;
+    border-bottom: 1px solid #272D2B;
+}
+
+
+.header__logo h2 {
+    padding-left: 1481px;
+    color: #fff;
+    margin-top: -25px;
+}
+
+.header__logo h3 {
+    padding-left: 1607.88px;
+    color: #fff;
+    margin-top: -28px;
+    font-size: 25px;
+}
+
+.header__logo h4 {
+    color: #fff;
+    margin-left: 1767.75px;
+    padding: 5px 50px;
+    border-radius: 41px;
+    background: #2F3634;
+    margin-top: -29px;
+}
+
+.hello {
+    margin-left: 540.73px;
+    margin-top: 255px;
+    width: 1110px;
+    height: 372.38px;
+    background: #FFFFFF;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 41px;
+    color: #0e1010;
+}
+
+.hello h1 {
+    padding-left: 95px;
+    padding: 95px;
+    font-style: italic;
+    font-size: 36px;
+}
+
+.in h2 {
+    margin: -90px;
+    margin-left: 95px;
+    width: 792px;
+    height: 52px;
+    color: #000000;
+}
+
+.in img {
+    padding-left: 100px;
+    margin-top: 150px;
+}
+
+.in .vector {
+    padding-left: 19.29px;
+}
+
+.in .figma {
+    padding-left: 19.29px;
+}
+
+.in .group {
+    padding-left: 19.29px;
+}
+
+.in .frame {
+    padding-left: 370px;
+}
+
+.in .frame3 {
+    padding-left: 20px;
+}
+
+.me h1 {
+    color: #ffff;
+    margin-top: 330px;
+    padding-left: 260px;
+}
+
+.me h2 {
+    padding-left: 450px;
+    color: #fff;
+    margin-top: -125px;
+}
+
+.some h1 {
+    color: #fff;
+    padding-left: 500px;
+    margin-top: 330px;
+}
+
+.some h2 {
+    color: #ffff;
+    padding-left: 320px;
+    margin-top: -82px;
+}
+
+.softfare {
+    width: 359.35px;
+    height: 202.13px;
+    margin-left: -20px;
+    margin-top: 45.11px;
+    background: #272D2B;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+.softfare h1 {
+    color: #fff;
+    font-size: 20px;
+    padding-left: 120px;
+}
+
+.visual {
+    width: 360.53px;
+    height: 202.13px;
+    margin-left: 380px;
+    margin-top: -210px;
+    background: #272D2B;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+.branding h1 {
+    text-align: center;
+    color: #fff;
+    margin: -100px;
+    font-size: 20px
+}
+
+.marketing {
+    width: 359.35px;
+    height: 202.13px;
+    background: #272D2B;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    margin-left: 760px;
+    margin-top: -200px;
+    font-size: 20px;
+}
+
+.things {
+    margin-top: 14.77px;
+    font-size: 20px;
+}
+
+.grapih {
+    margin: -210px;
+    margin-left: 380px;
+}
+
+.volebal {
+    margin-left: 760px;
+    width: 359.35px;
+    height: 202.13px;
+    background: #272D2B;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+.project h1 {
+    padding-left: 520px;
+    text-align: center;
+    margin-top: 328.07px;
+}
+
+.project h2 {
+    width: 1000px;
+    padding-left: 320px;
+    color: #fff;
+    margin-top: -90px;
+}
+
+.tortburchag img {
+    margin-top: 77.37px;
+
+}
+
+.tortburchag h2 {
+    width: 1000px;
+    color: #859591;
+    margin-top: -345px;
+    padding-left: 680px;
+    font-size: 20px;
+}
+
+.tortburchag h1 {
+    width: 2000px;
+    color: #fff;
+    padding-left: 680px;
+    margin-top: -95px;
+    font-size: 36px;
+    font-style: normal;
+}
+
+.tortburchag h3 {
+    color: #fff;
+    padding-left: 680px;
+    width: 1050px;
+    margin-top: -91px;
+}
+
+.mechanic h2 {
+    color: #859591;
+    padding-left: 5px;
+    margin-top: 180px;
+}
+
+.mechanic h1 {
+    color: #fff;
+    font-size: 36px;
+    margin-top: -90px;
+    margin-left: -118px;
+    font-style: normal;
+}
+
+.mechanic h3 {
+    color: #fff;
+    padding-left: 5px;
+    margin-top: -90px;
+}
+
+.mechanic img {
+    margin-top: -225px;
+    padding-left: 400px;
+}
+
+.mechanic h4 {
+    margin-top: -35px;
+    margin-left: -400px;
+}
+
+.mechanic h5 {
+    margin-left: -220px;
+    margin-top: -10px;
+}
+
+.non img {
+    margin-top: 94.77px;
+}
+
+.ipsum h2 {
+    width: 1000px;
+    font-size: 20px;
+    color: #859591;
+    margin-left: 660px;
+    margin-top: -340px;
+}
+
+.ipsum h1 {
+    width: 2000px;
+    padding-left: 660px;
+    margin-top: -95px;
+    font-style: normal;
+    font-size: 36px;
+}
+
+.ipsum h3 {
+    margin-top: -90px;
+    width: 1050px;
+    color: #fff;
+    padding-left: 665px;
+}
+
+.rasm img {
+    padding-left: 660px;
+}
+
+.rasm h1 {
+    margin-top: -220px;
+    margin-left: -600px;
+}
+
+.rasm h2 {
+    margin-left: 200px;
+    margin-top: -230px;
+}
+
+.poster h2 {
+    margin-top: 101px;
+    color: #859591;
+}
+
+.poster h1 {
+    font-size: 36px;
+    color: #ffff;
+    font-style: normal;
+    margin-left: -120px;
+    margin-top: -90px;
+}
+
+.poster h3 {
+    color: #fff;
+    margin-top: -90px;
+}
+
+.poster img {
+    margin-top: -230px;
+    padding-left: 400px;
+}
+
+.poster h4 {
+    margin-top: -30px;
+    margin-left: -400px;
+}
+
+.poster h5 {
+    margin-top: -15px;
+    margin-left: -350px;
+}
+
+.poster h6 {
+    margin-top: -10px;
+    margin-left: -200px;
+}
+
+.get h1 {
+    width: 1000px;
+    margin-top: 240px;
+    padding-left: 550px;
+}
+
+.get h2 {
+    text-align: center;
+    color: #fff;
+    width: 1450px;
+    margin-left: -100px;
+    margin-top: -90px;
+}
+
+.get img {
+    margin-top: 30px;
+    padding-left: 410px;
+}
+
+.all h1 {
+    padding-left: 1000px;
+    font-size: 20px;
+    margin-top: -30px;
+    font-style: normal;
+}
+
+.all h2 {
+    font-size: 20px;
+    padding-left: 1100px;
+    color: #fff;
+    margin-top: -118px;
+}
+
+.all h3 {
+    font-size: 20px;
+    padding-left: 1240px;
+    color: #fff;
+    margin-top: -25px;
+}
+
+.all h4 {
+    width: 1000px;
+    font-size: 15px;
+    padding-left: 535px;
+    color: #fff;
+    margin-top: 30px;
+}
+
+.res {
+    width: 2000px;
+    height: 150px;
+    margin-left: -590px;
+    margin-top: 200px;
+    background: #0E1010;
+    mix-blend-mode: normal;
+    border-top: 1px solid #272D2B;
+}
